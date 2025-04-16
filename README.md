@@ -7,7 +7,7 @@ The sunrise photography  serves as an online photography site for showcasing the
 Setup/Installation Requirements
 Users need to set up a server to run the website.
 No additional dependencies or configurations are required. 
-"git clone" {https://github.com/Castrokimaru/}Sunrise_photography.git
+"git clone" {https://castrokimaru.github.io/photography/}
 Known Bugs
 There are no known issues or bugs at this time.
 
